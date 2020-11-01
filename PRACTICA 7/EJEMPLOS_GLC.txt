@@ -1,0 +1,49 @@
+S,A,B,C
+abS|abA|abB
+cd
+aB
+dc
+
+
+					ctrl+c,ctrl+v en consola
+
+					EDGARGO SIN UNITARIAS NI NULAS
+S,A,B,C,D,E,F,G,H
+aAB|aA|cBd|cd|Ha|bH|AH|cB|c|FG
+cBd|cd|Ha|bH|AH|cB|c
+e|fS
+gD|hDt
+x|y|z
+AH|cB|c
+AB|cBd|cd|Ha|bH|AH|cB|c|Ga
+FG
+Ha|bH|AH|cB|c
+
+
+					---ejemplo original edgardo
+S,A,B,C,D,E,F,G,H
+aAB|A|G
+cBd|H
+e|fS|*
+gD|hDt
+x|y|z
+AH|cB
+AB|Ga
+FG
+Ha|bH|E
+
+
+					EJEMPLO 3:
+S,A,B,C
+0A1|0
+0A1|0B|0
+0B|0
+1C|B
+
+
+					EJEMPLO 4
+S,A,B,C
+0A|1B|0C
+0A|1S|1
+1BB|0S|0|1C
+0C
